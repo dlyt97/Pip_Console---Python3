@@ -45,6 +45,3 @@ elif x == '2':
     keyboard.release(Key.enter)
 else:
     quit()
-
-
-
